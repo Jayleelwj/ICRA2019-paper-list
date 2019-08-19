@@ -28,7 +28,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chines
 |0085|Design of a Modular Continuum Robot Segment for Use in a General Purpose Manipulator|
 |0090|Linear Heterogeneous Reconfiguration of Cubic Modular Robots Via Simultaneous Tunneling and Permutation|
 |0095|Visual SLAM - Why Bundle Adjust|
-|0109|Analytic Collision Risk Calculation for Autonomos Vehicle Navigation|
+|0109|Analytic Collision Risk Calculation for Autonomous Vehicle Navigation|
 |0111|Oriented Point Sampling for Plane Detection in Unorganized Point Clouds|
 |0114|1-Actuator 3-DoF Manipulation Using an Underactuated Mechanism with Multiple Nonparallel and Viscoelastic Passive Joints|
 |0116|Critically Fast Pick-And-Place with Suction Cups|
